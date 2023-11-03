@@ -88,13 +88,7 @@ python3 -m modules
 - [Py-Tgcalls](https://github.com/pytgcalls/pytgcalls)
 
 ## 🥀 Powered By [Darkdevil](https://t.me/darkdevil898) & [ALEX HACKER](https://t.me/ALEXBADHACKER)
-)
 
-EX HACKER](https://t.me/ALEXBADHACKER)
-)
-
-ER)
-)
 
 
 
