@@ -34,7 +34,7 @@
 
 ## YouTube 📺
 
-[YouTube Channel](https://youtube.com/channel/UCUkj6FFzdsOO5acUXVOEECg)
+[YouTube Channel](https://youtube.com/@ALEXHUNTERSYT?si=5Rt5LrmGglepBIAr))
 
 ### Deploy To Heroku
 
